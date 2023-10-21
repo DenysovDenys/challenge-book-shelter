@@ -1,12 +1,12 @@
-package com.example.automarket;
+package com.example.bookshelter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AutoMarketApplication {
+public class BookShelterApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AutoMarketApplication.class, args);
+        SpringApplication.run(BookShelterApplication.class, args);
     }
 }
